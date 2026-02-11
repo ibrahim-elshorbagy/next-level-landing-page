@@ -36,15 +36,15 @@
       <!-- Market Flags -->
       <div class="flex flex-wrap justify-center items-center gap-6 sm:gap-8">
         <div class="text-center">
-          <span class="text-4xl sm:text-5xl block text-white mb-2">🇮🇹</span>
+          <img src="https://flagcdn.com/w40/it.png" alt="Italy flag" class="w-9 h-6 sm:w-12 sm:h-8 block mb-2" />
           <span class="text-white font-medium text-sm sm:text-base">Italy</span>
         </div>
         <div class="text-center">
-          <span class="text-4xl sm:text-5xl block text-white mb-2">🇸🇦</span>
+          <img src="https://flagcdn.com/w40/sa.png" alt="Saudi Arabia flag" class="w-9 h-6 sm:w-12 sm:h-8 block mb-2" />
           <span class="text-white font-medium text-sm sm:text-base">Saudi Arabia</span>
         </div>
         <div class="text-center">
-          <span class="text-4xl sm:text-5xl block text-white mb-2">🇦🇪</span>
+          <img src="https://flagcdn.com/w40/ae.png" alt="UAE flag" class="w-9 h-6 sm:w-12 sm:h-8 block mb-2" />
           <span class="text-white font-medium text-sm sm:text-base">UAE</span>
         </div>
       </div>

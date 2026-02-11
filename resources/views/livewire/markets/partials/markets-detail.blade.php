@@ -13,14 +13,14 @@
           <!-- Flag Badge -->
           <div
             class="absolute top-3 sm:top-4 left-3 sm:left-4 bg-white/95 backdrop-blur-sm rounded-full px-4 sm:px-6 py-2 sm:py-3 flex items-center space-x-2 sm:space-x-3 shadow-lg">
-            <span class="text-2xl sm:text-3xl">🇮🇹</span>
+            <img src="https://flagcdn.com/w40/it.png" alt="Italy flag" class="w-6 h-4 sm:w-8 sm:h-6" />
             <span class="font-bold text-gray-900 text-base sm:text-lg">Italy</span>
           </div>
         </div>
 
         <div>
           <div class="inline-flex items-center bg-yellow-100 rounded-full px-3 sm:px-4 py-1.5 sm:py-2 mb-4 sm:mb-6">
-            <span class="text-yellow-600 mr-2 text-lg sm:text-xl">🇮🇹</span>
+            <img src="https://flagcdn.com/w40/it.png" alt="Italy flag" class="w-5 h-4 sm:w-6 sm:h-5 mr-2" />
             <span class="text-yellow-700 text-xs sm:text-sm font-medium">European Market</span>
           </div>
 
@@ -41,7 +41,7 @@
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12 lg:gap-16 items-center">
         <div class="order-2 lg:order-1">
           <div class="inline-flex items-center bg-green-100 rounded-full px-3 sm:px-4 py-1.5 sm:py-2 mb-4 sm:mb-6">
-            <span class="text-green-600 mr-2 text-lg sm:text-xl">🇸🇦</span>
+            <img src="https://flagcdn.com/w40/sa.png" alt="Saudi Arabia flag" class="w-5 h-4 sm:w-6 sm:h-5 mr-2" />
             <span class="text-green-700 text-xs sm:text-sm font-medium">Middle East Market</span>
           </div>
 
@@ -65,7 +65,7 @@
           <!-- Flag Badge -->
           <div
             class="absolute top-3 sm:top-4 right-3 sm:right-4 bg-white/95 backdrop-blur-sm rounded-full px-4 sm:px-6 py-2 sm:py-3 flex items-center space-x-2 sm:space-x-3 shadow-lg">
-            <span class="text-2xl sm:text-3xl">🇸🇦</span>
+            <img src="https://flagcdn.com/w40/sa.png" alt="Saudi Arabia flag" class="w-6 h-4 sm:w-8 sm:h-6" />
             <span class="font-bold text-gray-900 text-base sm:text-lg">Saudi Arabia</span>
           </div>
         </div>
@@ -85,14 +85,14 @@
           <!-- Flag Badge -->
           <div
             class="absolute top-3 sm:top-4 left-3 sm:left-4 bg-white/95 backdrop-blur-sm rounded-full px-4 sm:px-6 py-2 sm:py-3 flex items-center space-x-2 sm:space-x-3 shadow-lg">
-            <span class="text-2xl sm:text-3xl">🇦🇪</span>
+            <img src="https://flagcdn.com/w40/ae.png" alt="UAE flag" class="w-6 h-4 sm:w-8 sm:h-6" />
             <span class="font-bold text-gray-900 text-base sm:text-lg">UAE</span>
           </div>
         </div>
 
         <div>
           <div class="inline-flex items-center bg-blue-100 rounded-full px-3 sm:px-4 py-1.5 sm:py-2 mb-4 sm:mb-6">
-            <span class="text-blue-600 mr-2 text-lg sm:text-xl">🇦🇪</span>
+            <img src="https://flagcdn.com/w40/ae.png" alt="UAE flag" class="w-5 h-4 sm:w-6 sm:h-5 mr-2" />
             <span class="text-blue-700 text-xs sm:text-sm font-medium">Gulf Market</span>
           </div>
 
