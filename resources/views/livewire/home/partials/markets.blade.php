@@ -6,7 +6,7 @@
       <x-slot name="title">
         <span class="inline-flex items-center justify-center flex-wrap gap-2">
           <x-heroicon-o-globe-alt class="w-8 h-8 sm:w-10 sm:h-10 lg:w-12 lg:h-12 text-accent" />
-          <span>Where We <span class='text-accent'>Operate</span></span>
+          <span>Where We <span class='text-black'>Operate</span></span>
         </span>
       </x-slot>
     </x-section-title>

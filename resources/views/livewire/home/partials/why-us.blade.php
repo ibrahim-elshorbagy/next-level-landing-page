@@ -4,7 +4,7 @@
 
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
     <!-- Section Header -->
-    <x-section-title title="Why Choose <span class='text-accent'>NEXT LEVEL</span>"
+    <x-section-title title="Why Choose <span class='text-black'>NEXT LEVEL</span>"
       subtitle="We bring together strategy, expertise, and execution to deliver measurable results" />
 
     <x-features-grid />

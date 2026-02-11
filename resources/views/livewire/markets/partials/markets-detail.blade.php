@@ -25,7 +25,7 @@
           </div>
 
           <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-4 sm:mb-6">
-            <span class="text-accent">Italy</span>
+            <span class="text-black">Italy</span>
           </h2>
 
           <p class="text-gray-600 text-base sm:text-lg mb-6 sm:mb-8 leading-relaxed">
@@ -46,7 +46,7 @@
           </div>
 
           <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-4 sm:mb-6">
-            <span class="text-accent">Saudi Arabia</span>
+            <span class="text-black">Saudi Arabia</span>
           </h2>
 
           <p class="text-gray-600 text-base sm:text-lg mb-6 sm:mb-8 leading-relaxed">
@@ -97,7 +97,7 @@
           </div>
 
           <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-4 sm:mb-6">
-            <span class="text-accent">United Arab Emirates</span>
+            <span class="text-black">United Arab Emirates</span>
           </h2>
 
           <p class="text-gray-600 text-base sm:text-lg mb-6 sm:mb-8 leading-relaxed">

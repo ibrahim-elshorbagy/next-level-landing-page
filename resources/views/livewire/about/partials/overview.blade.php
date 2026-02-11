@@ -9,7 +9,7 @@
         </div>
 
         <h2 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-6 sm:mb-8 leading-tight">
-          Strategic & Operational <span class="text-yellow-500">Advisory Firm</span>
+          Strategic & Operational <span class="text-gray-900">Advisory Firm</span>
         </h2>
 
         <div class="space-y-4 sm:space-y-6 text-gray-600 text-base sm:text-lg leading-relaxed">
@@ -31,15 +31,15 @@
         <!-- Stats -->
         <div class="grid grid-cols-3 gap-4 sm:gap-6 mt-8 sm:mt-10 pt-8 sm:pt-10 border-t border-gray-200">
           <div>
-            <div class="text-2xl sm:text-3xl md:text-4xl font-bold text-yellow-500 mb-1">2020</div>
+            <div class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-1">2020</div>
             <div class="text-gray-500 text-xs sm:text-sm">Founded</div>
           </div>
           <div>
-            <div class="text-2xl sm:text-3xl md:text-4xl font-bold text-yellow-500 mb-1">3</div>
+            <div class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-1">3</div>
             <div class="text-gray-500 text-xs sm:text-sm">Markets</div>
           </div>
           <div>
-            <div class="text-2xl sm:text-3xl md:text-4xl font-bold text-yellow-500 mb-1">5+</div>
+            <div class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-1">5+</div>
             <div class="text-gray-500 text-xs sm:text-sm">Sectors</div>
           </div>
         </div>

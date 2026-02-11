@@ -34,7 +34,7 @@
       </div>
 
       <!-- Mobile Menu Button -->
-      <button @click="open = !open" class="md:hidden p-2 rounded-lg hover:bg-gray-100 transition-colors">
+      <button @click="open = !open" class="md:hidden p-2 rounded-lg hover:bg-gray-100 transition-colors" aria-label="Toggle mobile menu">
         <x-heroicon-o-bars-3 x-show="!open" class="w-6 h-6" />
         <x-heroicon-o-x-mark x-show="open" x-cloak class="w-6 h-6" />
       </button>

@@ -13,7 +13,7 @@
         <!-- Social Links -->
         <div class="flex space-x-4">
           <a href="mailto:info@thenextlevel.global"
-            class="w-10 h-10 bg-black/10 rounded-full flex items-center justify-center hover:bg-accent hover:text-white transition-all duration-300">
+            class="w-10 h-10 bg-black/10 rounded-full flex items-center justify-center hover:bg-accent hover:text-white transition-all duration-300" aria-label="Send us an email">
             <x-heroicon-o-envelope class="w-5 h-5" />
           </a>
         </div>
@@ -21,7 +21,7 @@
 
       <!-- Quick Links -->
       <div>
-        <h4 class="text-lg font-semibold mb-6 text-accent">Quick Links</h4>
+        <h3 class="text-lg font-semibold mb-6 text-black">Quick Links</h3>
         <ul class="space-y-3">
           <li>
             <a wire:navigate href="{{ route('home') }}"
@@ -63,7 +63,7 @@
 
       <!-- Services -->
       <div>
-        <h4 class="text-lg font-semibold mb-6 text-accent">Services</h4>
+        <h3 class="text-lg font-semibold mb-6 text-black">Services</h3>
         <ul class="space-y-3">
           <li>
             <a wire:navigate href="{{ route('services') }}"
@@ -94,7 +94,7 @@
 
       <!-- Markets -->
       <div>
-        <h4 class="text-lg font-semibold mb-6 text-accent">Markets</h4>
+        <h3 class="text-lg font-semibold mb-6 text-black">Markets</h3>
         <ul class="space-y-3">
           <li class="flex items-center text-gray-600">
             <span class="mr-2">🇮🇹</span> Italy
@@ -108,7 +108,7 @@
         </ul>
         <div class="mt-6">
           <a wire:navigate href="{{ route('contact') }}"
-            class="inline-flex items-center text-accent hover:text-black transition-colors duration-200">
+            class="inline-flex items-center text-black hover:text-gray-600 transition-colors duration-200">
             Get in Touch
             <x-heroicon-s-arrow-right class="w-4 h-4 ml-2" />
           </a>

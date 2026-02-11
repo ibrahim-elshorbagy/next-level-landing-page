@@ -10,7 +10,7 @@
           </div>
 
           <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-4 sm:mb-6">
-            Strategy & <span class="text-accent">Growth</span>
+            Strategy & <span class="text-black">Growth</span>
           </h2>
 
           <ul class="space-y-3 sm:space-y-4">
@@ -82,7 +82,7 @@
           </div>
 
           <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-4 sm:mb-6">
-            Branding & <span class="text-accent">Marketing</span>
+            Branding & <span class="text-black">Marketing</span>
           </h2>
 
           <ul class="space-y-3 sm:space-y-4">
@@ -136,7 +136,7 @@
           </div>
 
           <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-4 sm:mb-6">
-            Sponsorship & <span class="text-accent">Institutional Support</span>
+            Sponsorship & <span class="text-black">Institutional Support</span>
           </h2>
 
           <ul class="space-y-3 sm:space-y-4">
@@ -209,7 +209,7 @@
           </div>
 
           <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-4 sm:mb-6">
-            Contract & <span class="text-accent">Procurement Advisory</span>
+            Contract & <span class="text-black">Procurement Advisory</span>
           </h2>
 
           <ul class="space-y-3 sm:space-y-4">

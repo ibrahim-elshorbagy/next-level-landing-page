@@ -1,7 +1,7 @@
 <section class="py-16 sm:py-20 md:py-24 lg:py-28 bg-white">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <!-- Section Header -->
-    <x-section-title title="Our <span class='text-accent'>Services</span>"
+    <x-section-title title="Our <span class='text-black'>Services</span>"
       subtitle="Comprehensive advisory and implementation work structured into interconnected service areas" />
 
     <!-- Services Grid -->
