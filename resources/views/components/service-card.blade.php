@@ -3,7 +3,7 @@
     'title' => '',
     'description' => '',
     'link' => null,
-    'linkText' => 'Learn More'
+    'linkText' => 'View Service Details'
 ])
 
 <div class="group bg-white rounded-2xl p-6 sm:p-8 shadow-lg hover:shadow-2xl transition-all duration-500 border border-gray-100 hover:border-accent/30 hover:-translate-y-2">

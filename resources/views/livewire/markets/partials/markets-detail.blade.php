@@ -6,7 +6,7 @@
         <div class="relative">
           <img src="https://placehold.co/800x600/1a1a1a/FFD700?text=Italy"
             alt="Italy market - NEXT LEVEL CONSULTING operations in fashion, luxury, and tourism"
-            class="rounded-2xl shadow-2xl w-full" loading="lazy">
+            class="rounded-2xl shadow-2xl w-full" loading="lazy" width="800" height="600">
           <div
             class="absolute -bottom-4 sm:-bottom-6 -left-4 sm:-left-6 w-32 sm:w-48 h-32 sm:h-48 bg-accent/20 rounded-2xl -z-10">
           </div>
@@ -58,7 +58,7 @@
         <div class="order-1 lg:order-2 relative">
           <img src="https://placehold.co/800x600/2a2a2a/FFD700?text=Saudi+Arabia"
             alt="Saudi Arabia market - Vision 2030 initiatives and public-private partnerships"
-            class="rounded-2xl shadow-2xl w-full" loading="lazy">
+            class="rounded-2xl shadow-2xl w-full" loading="lazy" width="800" height="600">
           <div
             class="absolute -bottom-4 sm:-bottom-6 -right-4 sm:-right-6 w-32 sm:w-48 h-32 sm:h-48 bg-accent/20 rounded-2xl -z-10">
           </div>
@@ -78,7 +78,7 @@
         <div class="relative">
           <img src="https://placehold.co/800x600/333333/FFD700?text=UAE"
             alt="UAE market - Dubai and Abu Dhabi brand activations and business development"
-            class="rounded-2xl shadow-2xl w-full" loading="lazy">
+            class="rounded-2xl shadow-2xl w-full" loading="lazy" width="800" height="600">
           <div
             class="absolute -bottom-4 sm:-bottom-6 -left-4 sm:-left-6 w-32 sm:w-48 h-32 sm:h-48 bg-accent/20 rounded-2xl -z-10">
           </div>

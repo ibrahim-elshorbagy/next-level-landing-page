@@ -6,7 +6,7 @@
       <!-- Logo -->
       <a wire:navigate href="{{ route('home') }}" class="flex items-center">
         <img src="{{ asset('assets/logo.webp') }}" alt="About NEXT LEVEL CONSULTING"
-          class="w-32 object-cover">
+          class="w-32 object-cover" width="128" height="40">
       </a>
 
       <!-- Desktop Navigation -->

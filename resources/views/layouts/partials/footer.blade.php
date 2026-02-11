@@ -5,7 +5,7 @@
       <!-- Brand Column -->
       <div class="lg:col-span-1">
         <a wire:navigate href="{{ route('home') }}" class="flex items-center space-x-2 mb-6">
-          <img src="{{ asset('assets/logo.webp') }}" alt="About NEXT LEVEL CONSULTING" class="w-32 object-cover">
+          <img src="{{ asset('assets/logo.webp') }}" alt="About NEXT LEVEL CONSULTING" class="w-32 object-cover" width="128" height="40">
         </a>
         <p class="text-gray-600 text-sm leading-relaxed mb-6">
           Strategic consulting firm delivering strategy, development, and execution across Italy, Saudi Arabia, and UAE.

@@ -3,7 +3,7 @@
   <div class="absolute inset-0">
     <img src="{{ asset('assets/about/AboutHero.webp') }}"
       alt="About NEXT LEVEL CONSULTING - Strategic advisory firm founded in 2020" class="w-full h-full object-cover"
-      loading="eager">
+      loading="eager" fetchpriority="high">
     <div class="absolute inset-0 bg-gradient-to-r from-black/90 via-black/70 to-black/50"></div>
   </div>
 
