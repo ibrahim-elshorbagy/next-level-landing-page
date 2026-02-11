@@ -1,14 +1,14 @@
 @push('meta')
   <meta name="description"
-    content="Operating in Italy, Saudi Arabia, and UAE - NEXT LEVEL CONSULTING delivers cross-border strategies with regional insight and global execution standards.">
+    content="Operating in Italy, Saudi Arabia, and UAE - NEXT LEVEL delivers cross-border strategies with regional insight and global execution standards.">
   <meta name="keywords"
     content="Italy market, Saudi Arabia market, UAE market, Dubai, Abu Dhabi, Vision 2030, cross-border strategy">
   <meta name="robots" content="index, follow">
 
   {{-- Open Graph Tags --}}
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="NEXT LEVEL CONSULTING">
-  <meta property="og:title" content="Markets - NEXT LEVEL CONSULTING">
+  <meta property="og:site_name" content="NEXT LEVEL">
+  <meta property="og:title" content="Markets - NEXT LEVEL">
   <meta property="og:description"
     content="Operating in Italy, Saudi Arabia, and UAE - delivering cross-border strategies with regional insight and global execution standards.">
   <meta property="og:image" content="{{ url('images/og-markets.jpg') }}">
@@ -17,7 +17,7 @@
   {{-- Twitter Card Tags --}}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@nextlevelconsult">
-  <meta name="twitter:title" content="Markets - NEXT LEVEL CONSULTING">
+  <meta name="twitter:title" content="Markets - NEXT LEVEL">
   <meta name="twitter:description"
     content="Operating in Italy, Saudi Arabia, and UAE with regional insight and global execution standards.">
   <meta name="twitter:image" content="{{ url('images/og-markets.jpg') }}">
@@ -50,7 +50,7 @@
 {
   "@@context": "https://schema.org",
   "@@type": "Organization",
-  "name": "NEXT LEVEL CONSULTING",
+  "name": "NEXT LEVEL",
   "areaServed": [
     {
       "@@type": "Country",

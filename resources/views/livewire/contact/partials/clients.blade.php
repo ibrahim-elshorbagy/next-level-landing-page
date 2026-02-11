@@ -13,7 +13,7 @@
         Who We Work With
       </h2>
       <p class="text-lg sm:text-xl md:text-2xl text-gray-600 font-light">
-        NEXT LEVEL CONSULTING partners with:
+        NEXT LEVEL partners with:
       </p>
     </div>
 

@@ -5,7 +5,7 @@
       <div>
         <div class="inline-flex items-center bg-yellow-500/10 rounded-full px-3 sm:px-4 py-1.5 sm:py-2 mb-4 sm:mb-6">
           <x-heroicon-o-building-office class="w-4 h-4 sm:w-5 sm:h-5 text-yellow-500 mr-2" />
-          <span class="text-gray-700 text-xs sm:text-sm font-medium">About NEXT LEVEL CONSULTING</span>
+          <span class="text-gray-700 text-xs sm:text-sm font-medium">About NEXT LEVEL</span>
         </div>
 
         <h2 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-6 sm:mb-8 leading-tight">
@@ -14,7 +14,7 @@
 
         <div class="space-y-4 sm:space-y-6 text-gray-600 text-base sm:text-lg leading-relaxed">
           <p>
-            NEXT LEVEL CONSULTING is a strategic and operational advisory firm supporting organizations in navigating
+            NEXT LEVEL is a strategic and operational advisory firm supporting organizations in navigating
             complex growth, expansion, and transformation challenges.
           </p>
           <p>
@@ -49,7 +49,7 @@
       <div class="relative mt-8 lg:mt-0">
         <div class="relative rounded-2xl overflow-hidden shadow-2xl">
           <img src="https://placehold.co/600x700/000000/FFD700?text=Company+Overview"
-               alt="NEXT LEVEL CONSULTING team - strategic advisory firm operating in Italy, Saudi Arabia, and UAE"
+               alt="NEXT LEVEL team - strategic advisory firm operating in Italy, Saudi Arabia, and UAE"
                class="w-full h-auto"
                loading="lazy" width="600" height="700">
         </div>

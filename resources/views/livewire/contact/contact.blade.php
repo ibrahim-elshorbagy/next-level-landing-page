@@ -1,22 +1,22 @@
 @push('meta')
   <meta name="description"
-    content="Get in touch with NEXT LEVEL CONSULTING. Partner with us for international growth, brand repositioning, and institutional transformation projects.">
+    content="Get in touch with NEXT LEVEL. Partner with us for international growth, brand repositioning, and institutional transformation projects.">
   <meta name="keywords" content="contact, consulting, partnership, business inquiry, strategy consultation">
   <meta name="robots" content="index, follow">
 
   {{-- Open Graph Tags --}}
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="NEXT LEVEL CONSULTING">
-  <meta property="og:title" content="Contact Us - NEXT LEVEL CONSULTING">
+  <meta property="og:site_name" content="NEXT LEVEL">
+  <meta property="og:title" content="Contact Us - NEXT LEVEL">
   <meta property="og:description"
-    content="Get in touch with NEXT LEVEL CONSULTING. Partner with us for international growth and brand repositioning.">
+    content="Get in touch with NEXT LEVEL. Partner with us for international growth and brand repositioning.">
   <meta property="og:image" content="{{ url('images/og-contact.jpg') }}">
   <meta property="og:url" content="{{ url()->current() }}">
 
   {{-- Twitter Card Tags --}}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@nextlevelconsult">
-  <meta name="twitter:title" content="Contact Us - NEXT LEVEL CONSULTING">
+  <meta name="twitter:title" content="Contact Us - NEXT LEVEL">
   <meta name="twitter:description"
     content="Partner with us for international growth, brand repositioning, and transformation projects.">
   <meta name="twitter:image" content="{{ url('images/og-contact.jpg') }}">
@@ -145,7 +145,7 @@
   "@@type": "ContactPage",
   "mainEntity": {
     "@@type": "Organization",
-    "name": "NEXT LEVEL CONSULTING",
+    "name": "NEXT LEVEL",
     "url": "{{ url('/') }}",
     "contactPoint": {
       "@@type": "ContactPoint",

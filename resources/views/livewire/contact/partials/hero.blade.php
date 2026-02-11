@@ -2,7 +2,7 @@
   <!-- Background Image with Overlay -->
   <div class="absolute inset-0">
     <img src="{{ asset('assets/contact/ContactHero.webp') }}"
-      alt="Contact NEXT LEVEL CONSULTING - Get in touch for consulting services" class="w-full h-full object-cover"
+      alt="Contact NEXT LEVEL - Get in touch for consulting services" class="w-full h-full object-cover"
       loading="eager" fetchpriority="high">
     <div class="absolute inset-0 bg-gradient-to-r from-black/90 via-black/70 to-black/50"></div>
   </div>

@@ -5,7 +5,7 @@
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12 lg:gap-16 items-center">
         <div class="relative">
           <img src="https://placehold.co/800x600/1a1a1a/FFD700?text=Italy"
-            alt="Italy market - NEXT LEVEL CONSULTING operations in fashion, luxury, and tourism"
+            alt="Italy market - NEXT LEVEL operations in fashion, luxury, and tourism"
             class="rounded-2xl shadow-2xl w-full" loading="lazy" width="800" height="600">
           <div
             class="absolute -bottom-4 sm:-bottom-6 -left-4 sm:-left-6 w-32 sm:w-48 h-32 sm:h-48 bg-accent/20 rounded-2xl -z-10">

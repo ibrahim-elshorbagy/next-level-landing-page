@@ -5,7 +5,7 @@
     <div class="flex justify-between items-center h-20">
       <!-- Logo -->
       <a wire:navigate href="{{ route('home') }}" class="flex items-center">
-        <img src="{{ asset('assets/logo.webp') }}" alt="About NEXT LEVEL CONSULTING"
+        <img src="{{ asset('assets/logo.webp') }}" alt="About NEXT LEVEL"
           class="w-32 object-cover" width="128" height="40">
       </a>
 

@@ -1,12 +1,12 @@
 @push('meta')
-    <meta name="description" content="NEXT LEVEL CONSULTING - Strategic and operational advisory firm supporting organizations in navigating complex growth, expansion, and transformation challenges. Turn ideas into impact.">
+    <meta name="description" content="NEXT LEVEL - Strategic and operational advisory firm supporting organizations in navigating complex growth, expansion, and transformation challenges. Turn ideas into impact.">
     <meta name="keywords" content="consulting, strategy, business development, Italy, Saudi Arabia, UAE, strategic advisory">
     <meta name="robots" content="index, follow">
 
     {{-- Open Graph Tags --}}
     <meta property="og:type" content="website">
-    <meta property="og:site_name" content="NEXT LEVEL CONSULTING">
-    <meta property="og:title" content="NEXT LEVEL CONSULTING - Strategy. Development. Execution.">
+    <meta property="og:site_name" content="NEXT LEVEL">
+    <meta property="og:title" content="NEXT LEVEL - Strategy. Development. Execution.">
     <meta property="og:description" content="Strategic and operational advisory firm supporting organizations in navigating complex growth, expansion, and transformation challenges. Turn ideas into impact.">
     <meta property="og:image" content="{{ url('images/og-image.jpg') }}">
     <meta property="og:url" content="{{ url()->current() }}">
@@ -14,7 +14,7 @@
     {{-- Twitter Card Tags --}}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@nextlevelconsult">
-    <meta name="twitter:title" content="NEXT LEVEL CONSULTING - Strategy. Development. Execution.">
+    <meta name="twitter:title" content="NEXT LEVEL - Strategy. Development. Execution.">
     <meta name="twitter:description" content="Strategic and operational advisory firm supporting organizations in navigating complex growth, expansion, and transformation challenges.">
     <meta name="twitter:image" content="{{ url('images/og-image.jpg') }}">
 
@@ -56,7 +56,7 @@
 {
   "@@context": "https://schema.org",
   "@@type": "Organization",
-  "name": "NEXT LEVEL CONSULTING",
+  "name": "NEXT LEVEL",
   "url": "{{ url('/') }}",
   "logo": "{{ url('images/logo.png') }}",
   "description": "Strategic and operational advisory firm supporting organizations in navigating complex growth, expansion, and transformation challenges.",
@@ -90,7 +90,7 @@
   "serviceType": "Strategic & Managerial Consulting",
   "provider": {
     "@@type": "Organization",
-    "name": "NEXT LEVEL CONSULTING"
+    "name": "NEXT LEVEL"
   },
   "areaServed": ["IT", "SA", "AE"],
   "hasOfferCatalog": {

@@ -2,7 +2,7 @@
   <!-- Background Image with Overlay -->
   <div class="absolute inset-0">
     <img src="{{ asset('assets/about/AboutHero.webp') }}"
-      alt="About NEXT LEVEL CONSULTING - Strategic advisory firm founded in 2020" class="w-full h-full object-cover"
+      alt="About NEXT LEVEL - Strategic advisory firm founded in 2020" class="w-full h-full object-cover"
       loading="eager" fetchpriority="high">
     <div class="absolute inset-0 bg-gradient-to-r from-black/90 via-black/70 to-black/50"></div>
   </div>
@@ -20,7 +20,7 @@
       <!-- Main Heading -->
       <h1
         class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-white mb-4 sm:mb-6 leading-tight tracking-tight">
-        About <span class="text-accent">NEXT LEVEL</span> CONSULTING
+        About <span class="text-accent">NEXT LEVEL</span>
       </h1>
 
       <!-- Subheading -->

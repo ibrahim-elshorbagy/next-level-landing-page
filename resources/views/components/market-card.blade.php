@@ -10,7 +10,7 @@
   class="group relative bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 hover:-translate-y-2">
   <!-- Image -->
   <div class="relative h-48 sm:h-56 md:h-64 overflow-hidden">
-    <img src="{{ $image }}" alt="NEXT LEVEL CONSULTING operations in {{ $country }}"
+    <img src="{{ $image }}" alt="NEXT LEVEL operations in {{ $country }}"
       class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" loading="lazy">
     <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
 

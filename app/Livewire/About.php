@@ -10,6 +10,6 @@ class About extends Component
 {
     public function render()
     {
-        return view('livewire.about.about')->title('About NEXT LEVEL CONSULTING - Strategic Advisory Firm');
+        return view('livewire.about.about')->title('About NEXT LEVEL - Strategic Advisory Firm');
     }
 }

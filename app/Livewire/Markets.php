@@ -10,6 +10,6 @@ class Markets extends Component
 {
     public function render()
     {
-        return view('livewire.markets.markets')->title('Markets - NEXT LEVEL CONSULTING | Italy, Saudi Arabia, UAE');
+        return view('livewire.markets.markets')->title('Markets - NEXT LEVEL | Italy, Saudi Arabia, UAE');
     }
 }

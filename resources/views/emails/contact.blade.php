@@ -87,7 +87,7 @@
     <div class="container">
         <!-- Header -->
         <div class="header">
-            <img src="{{ url('assets/logo.webp') }}" alt="NEXT LEVEL CONSULTING" class="logo">
+            <img src="{{ url('assets/logo.webp') }}" alt="NEXT LEVEL" class="logo">
         </div>
 
         <!-- Content -->
@@ -115,7 +115,7 @@
 
         <!-- Footer -->
         <div class="footer">
-            <p>This message was sent from the NEXT LEVEL CONSULTING website contact form.</p>
+            <p>This message was sent from the NEXT LEVEL website contact form.</p>
             <p><a href="{{ url('/') }}">Visit our website</a></p>
         </div>
     </div>

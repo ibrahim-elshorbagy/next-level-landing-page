@@ -2,7 +2,7 @@
   <!-- Background Image with Overlay -->
   <div class="absolute inset-0">
     <img src="{{ asset('assets/HomeHero.webp') }}"
-      alt="Strategic Consulting - NEXT LEVEL CONSULTING providing advisory services across Italy, Saudi Arabia, and UAE"
+      alt="Strategic Consulting - NEXT LEVEL providing advisory services across Italy, Saudi Arabia, and UAE"
       class="w-full h-full object-cover" loading="eager" fetchpriority="high">
     <div class="absolute inset-0 bg-gradient-to-br from-black/90 via-black/70 to-black/50"></div>
   </div>
@@ -38,7 +38,7 @@
 
       <!-- Subheading -->
       <p class="text-base sm:text-lg md:text-xl lg:text-2xl text-gray-300 mb-6 max-w-2xl leading-relaxed">
-        At <span class="text-accent font-semibold">NEXT LEVEL CONSULTING</span>, we turn ideas into impact.
+        At <span class="text-accent font-semibold">NEXT LEVEL</span>, we turn ideas into impact.
       </p>
 
       <!-- CTA Buttons -->

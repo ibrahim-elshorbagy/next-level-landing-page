@@ -2,7 +2,7 @@
   <!-- Background Image with Overlay -->
   <div class="absolute inset-0">
     <img src="{{ asset('assets/markets/MarketsHero.webp') }}"
-      alt="NEXT LEVEL CONSULTING global markets - Italy, Saudi Arabia, UAE" class="w-full h-full object-cover"
+      alt="NEXT LEVEL global markets - Italy, Saudi Arabia, UAE" class="w-full h-full object-cover"
       loading="eager" fetchpriority="high">
     <div class="absolute inset-0 bg-gradient-to-r from-black/90 via-black/70 to-black/50"></div>
   </div>
@@ -30,20 +30,20 @@
       <!-- Subheading -->
       <p
         class="text-base sm:text-lg md:text-xl lg:text-2xl text-gray-300 max-w-3xl mx-auto leading-relaxed mb-8 sm:mb-12">
-        NEXT LEVEL CONSULTING is actively engaged in three core markets
+        NEXT LEVEL is actively engaged in three core markets
       </p>
 
       <!-- Market Flags -->
       <div class="flex flex-wrap justify-center items-center gap-6 sm:gap-8">
-        <div class="text-center">
+        <div class="flex flex-col items-center justify-center">
           <img src="https://flagcdn.com/w40/it.png" alt="Italy flag" class="w-9 h-6 sm:w-12 sm:h-8 block mb-2" />
           <span class="text-white font-medium text-sm sm:text-base">Italy</span>
         </div>
-        <div class="text-center">
+        <div class="flex flex-col items-center justify-center">
           <img src="https://flagcdn.com/w40/sa.png" alt="Saudi Arabia flag" class="w-9 h-6 sm:w-12 sm:h-8 block mb-2" />
           <span class="text-white font-medium text-sm sm:text-base">Saudi Arabia</span>
         </div>
-        <div class="text-center">
+        <div class="flex flex-col items-center justify-center">
           <img src="https://flagcdn.com/w40/ae.png" alt="UAE flag" class="w-9 h-6 sm:w-12 sm:h-8 block mb-2" />
           <span class="text-white font-medium text-sm sm:text-base">UAE</span>
         </div>

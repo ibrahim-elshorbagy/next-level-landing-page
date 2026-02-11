@@ -40,6 +40,6 @@ class Contact extends Component
 
   public function render()
   {
-    return view('livewire.contact.contact')->title('Contact NEXT LEVEL CONSULTING - Strategic Advisory Partners');
+    return view('livewire.contact.contact')->title('Contact NEXT LEVEL - Strategic Advisory Partners');
   }
 }

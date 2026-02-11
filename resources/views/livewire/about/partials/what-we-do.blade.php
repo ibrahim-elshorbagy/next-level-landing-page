@@ -13,7 +13,7 @@
 
       <div class="max-w-4xl mx-auto space-y-3 sm:space-y-4 text-gray-600 text-base sm:text-lg leading-relaxed">
         <p>
-          NEXT LEVEL CONSULTING delivers actionable strategies through a collaborative, tailored model. We help clients
+          NEXT LEVEL delivers actionable strategies through a collaborative, tailored model. We help clients
           move from idea to execution—shaping direction, accelerating development, and delivering results.
         </p>
         <p>

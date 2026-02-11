@@ -5,12 +5,16 @@
       <!-- Brand Column -->
       <div class="lg:col-span-1">
         <a wire:navigate href="{{ route('home') }}" class="flex items-center space-x-2 mb-6">
-          <img src="{{ asset('assets/logo.webp') }}" alt="About NEXT LEVEL CONSULTING" class="w-32 object-cover" width="128" height="40">
+          <img src="{{ asset('assets/logo.webp') }}" alt="About NEXT LEVEL" class="w-32 object-cover" width="128" height="40">
         </a>
         <p class="text-gray-600 text-sm leading-relaxed mb-6">
           Strategic consulting firm delivering strategy, development, and execution across Italy, Saudi Arabia, and UAE.
         </p>
-        <!-- Social Links -->
+        <div class="text-gray-600 text-sm leading-relaxed mb-6">
+          <p><strong>NLC Consulting LLC</strong></p>
+          <p>Company N. 2326687.01</p>
+          <p>Shams Business Center, Media City Free Zone, Sharjah, UAE</p>
+        </div>
         <div class="flex space-x-4">
           <a href="mailto:info@thenextlevel.global"
             class="w-10 h-10 bg-black/10 rounded-full flex items-center justify-center hover:bg-accent hover:text-white transition-all duration-300" aria-label="Send us an email">
@@ -97,13 +101,16 @@
         <h3 class="text-lg font-semibold mb-6 text-black">Markets</h3>
         <ul class="space-y-3">
           <li class="flex items-center text-gray-600">
-            <span class="mr-2">🇮🇹</span> Italy
+            <img src="https://flagcdn.com/w20/it.png" alt="Italy flag" class="w-5 h-4 mr-2" />
+            Italy
           </li>
           <li class="flex items-center text-gray-600">
-            <span class="mr-2">🇸🇦</span> Saudi Arabia
+            <img src="https://flagcdn.com/w20/sa.png" alt="Saudi Arabia flag" class="w-5 h-4 mr-2" />
+            Saudi Arabia
           </li>
           <li class="flex items-center text-gray-600">
-            <span class="mr-2">🇦🇪</span> United Arab Emirates
+            <img src="https://flagcdn.com/w20/ae.png" alt="UAE flag" class="w-5 h-4 mr-2" />
+            United Arab Emirates
           </li>
         </ul>
         <div class="mt-6">
@@ -122,7 +129,7 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
       <div class="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
         <p class="text-gray-600 text-sm">
-          © 2026 NEXT LEVEL CONSULTING. All rights reserved.
+          © 2020 NLC Consulting LLC. All rights reserved.
         </p>
         <div class="flex items-center space-x-6 text-sm text-gray-600">
           <span>Italy</span>
