@@ -4,9 +4,9 @@
     <div class="mb-16 sm:mb-20 md:mb-24">
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12 lg:gap-16 items-center">
         <div class="relative">
-          <img src="https://placehold.co/800x600/1a1a1a/FFD700?text=Italy"
-            alt="Italy market - NEXT LEVEL operations in fashion, luxury, and tourism"
-            class="rounded-2xl shadow-2xl w-full" loading="lazy" width="800" height="600">
+          <div class="rounded-2xl shadow-2xl w-full bg-gradient-to-br from-black to-yellow-900 flex items-center justify-center text-yellow-400 text-2xl sm:text-3xl md:text-4xl font-bold h-[400px] sm:h-[500px] md:h-[600px]">
+            Italy
+          </div>
           <div
             class="absolute -bottom-4 sm:-bottom-6 -left-4 sm:-left-6 w-32 sm:w-48 h-32 sm:h-48 bg-accent/20 rounded-2xl -z-10">
           </div>
@@ -56,9 +56,9 @@
         </div>
 
         <div class="order-1 lg:order-2 relative">
-          <img src="https://placehold.co/800x600/2a2a2a/FFD700?text=Saudi+Arabia"
-            alt="Saudi Arabia market - Vision 2030 initiatives and public-private partnerships"
-            class="rounded-2xl shadow-2xl w-full" loading="lazy" width="800" height="600">
+          <div class="rounded-2xl shadow-2xl w-full bg-gradient-to-br from-black to-yellow-900 flex items-center justify-center text-yellow-400 text-2xl sm:text-3xl md:text-4xl font-bold h-[400px] sm:h-[500px] md:h-[600px]">
+            Saudi Arabia
+          </div>
           <div
             class="absolute -bottom-4 sm:-bottom-6 -right-4 sm:-right-6 w-32 sm:w-48 h-32 sm:h-48 bg-accent/20 rounded-2xl -z-10">
           </div>
@@ -76,9 +76,9 @@
     <div>
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12 lg:gap-16 items-center">
         <div class="relative">
-          <img src="https://placehold.co/800x600/333333/FFD700?text=UAE"
-            alt="UAE market - Dubai and Abu Dhabi brand activations and business development"
-            class="rounded-2xl shadow-2xl w-full" loading="lazy" width="800" height="600">
+          <div class="rounded-2xl shadow-2xl w-full bg-gradient-to-br from-black to-yellow-900 flex items-center justify-center text-yellow-400 text-2xl sm:text-3xl md:text-4xl font-bold h-[400px] sm:h-[500px] md:h-[600px]">
+            United Arab Emirates
+          </div>
           <div
             class="absolute -bottom-4 sm:-bottom-6 -left-4 sm:-left-6 w-32 sm:w-48 h-32 sm:h-48 bg-accent/20 rounded-2xl -z-10">
           </div>

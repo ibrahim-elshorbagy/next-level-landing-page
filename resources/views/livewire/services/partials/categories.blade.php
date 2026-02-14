@@ -53,9 +53,9 @@
         </div>
 
         <div class="relative mt-8 lg:mt-0">
-          <img src="https://placehold.co/600x500/1a1a1a/FFD700?text=Strategy+%26+Growth"
-            alt="Strategy & Growth services - strategic planning and business development"
-            class="rounded-2xl shadow-2xl w-full" loading="lazy">
+          <div class="rounded-2xl shadow-2xl w-full bg-gradient-to-br from-black to-yellow-900 flex items-center justify-center text-yellow-400 text-xl sm:text-2xl md:text-3xl font-bold h-[300px] sm:h-[400px] md:h-[500px]">
+            Strategy & Growth
+          </div>
           <div
             class="absolute -bottom-4 sm:-bottom-6 -right-4 sm:-right-6 w-32 sm:w-48 h-32 sm:h-48 bg-accent/20 rounded-2xl -z-10">
           </div>
@@ -67,9 +67,9 @@
     <div class="mb-16 sm:mb-20 md:mb-24">
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12 lg:gap-16 items-center">
         <div class="order-2 lg:order-1 relative mt-8 lg:mt-0">
-          <img src="https://placehold.co/600x500/2a2a2a/FFD700?text=Branding+%26+Marketing"
-            alt="Branding & Marketing services - brand identity and communication strategy"
-            class="rounded-2xl shadow-2xl w-full" loading="lazy">
+          <div class="rounded-2xl shadow-2xl w-full bg-gradient-to-br from-black to-yellow-900 flex items-center justify-center text-yellow-400 text-xl sm:text-2xl md:text-3xl font-bold h-[300px] sm:h-[400px] md:h-[500px]">
+            Branding & Marketing
+          </div>
           <div
             class="absolute -bottom-4 sm:-bottom-6 -left-4 sm:-left-6 w-32 sm:w-48 h-32 sm:h-48 bg-accent/20 rounded-2xl -z-10">
           </div>
@@ -180,9 +180,9 @@
         </div>
 
         <div class="relative mt-8 lg:mt-0">
-          <img src="https://placehold.co/600x500/333333/FFD700?text=Sponsorship+%26+Support"
-            alt="Sponsorship & Institutional Support - government engagement and partnerships"
-            class="rounded-2xl shadow-2xl w-full" loading="lazy">
+          <div class="rounded-2xl shadow-2xl w-full bg-gradient-to-br from-black to-yellow-900 flex items-center justify-center text-yellow-400 text-xl sm:text-2xl md:text-3xl font-bold h-[300px] sm:h-[400px] md:h-[500px]">
+            Sponsorship & Support
+          </div>
           <div
             class="absolute -bottom-4 sm:-bottom-6 -right-4 sm:-right-6 w-32 sm:w-48 h-32 sm:h-48 bg-accent/20 rounded-2xl -z-10">
           </div>
@@ -194,9 +194,9 @@
     <div>
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12 lg:gap-16 items-center">
         <div class="order-2 lg:order-1 relative mt-8 lg:mt-0">
-          <img src="https://placehold.co/600x500/1a1a1a/FFD700?text=Contract+%26+Procurement"
-            alt="Contract & Procurement Advisory - vendor identification and negotiation"
-            class="rounded-2xl shadow-2xl w-full" loading="lazy">
+          <div class="rounded-2xl shadow-2xl w-full bg-gradient-to-br from-black to-yellow-900 flex items-center justify-center text-yellow-400 text-xl sm:text-2xl md:text-3xl font-bold h-[300px] sm:h-[400px] md:h-[500px]">
+            Contract & Procurement
+          </div>
           <div
             class="absolute -bottom-4 sm:-bottom-6 -left-4 sm:-left-6 w-32 sm:w-48 h-32 sm:h-48 bg-accent/20 rounded-2xl -z-10">
           </div>
