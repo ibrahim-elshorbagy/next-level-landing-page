@@ -48,10 +48,9 @@
       <!-- Image -->
       <div class="relative mt-8 lg:mt-0">
         <div class="relative rounded-2xl overflow-hidden shadow-2xl">
-          <img src="https://placehold.co/600x700/000000/FFD700?text=Company+Overview"
-               alt="NEXT LEVEL team - strategic advisory firm operating in Italy, Saudi Arabia, and UAE"
-               class="w-full h-auto"
-               loading="lazy" width="600" height="700">
+          <div class="w-full bg-gradient-to-br from-black to-yellow-900 flex items-center justify-center text-yellow-400 text-2xl sm:text-3xl md:text-4xl font-bold h-[500px] sm:h-[600px] md:h-[700px]">
+            Company Overview
+          </div>
         </div>
         <div class="absolute -bottom-4 sm:-bottom-6 -right-4 sm:-right-6 w-32 sm:w-48 h-32 sm:h-48 bg-yellow-500/20 rounded-2xl -z-10"></div>
         <div class="absolute -top-4 sm:-top-6 -left-4 sm:-left-6 w-24 sm:w-32 h-24 sm:h-32 bg-gray-100 rounded-2xl -z-10"></div>
